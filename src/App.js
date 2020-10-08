@@ -59,14 +59,17 @@ const styles = StyleSheet.create({
   },
 
   header: {
+    flex: 1,
     fontSize: 40,
     fontWeight: 'bold',
     padding: 5,
   },
 
   image: {
-    width: 380,
-    height: 200,
+    width: '95%',
+    height: undefined,
+    alignSelf: 'center',
+    aspectRatio: 2,
     margin: 10,
     marginBottom: 5,
     borderRadius: 10,
@@ -85,30 +88,30 @@ const styles = StyleSheet.create({
   },
 
   box: {
+    flex: 1,
     borderStyle: 'solid',
     borderColor: 'green',
     borderWidth: 1,
     borderRadius: 10,
     margin: 5,
-    height: 310,
   },
 
   box2: {
+    flex: 1,
     borderStyle: 'solid',
     borderColor: 'green',
     borderWidth: 1,
     borderRadius: 10,
     margin: 5,
-    height: 330,
   },
 
   box3: {
+    flex: 1,
     borderStyle: 'solid',
     borderColor: 'green',
     borderWidth: 1,
     borderRadius: 10,
     margin: 5,
-    height: 435,
   },
 
   scrollView: {
