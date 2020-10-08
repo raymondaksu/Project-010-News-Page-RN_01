@@ -1,3 +1,5 @@
+https://raymondaksu.github.io/Project-010-News-Page-RN_01/RN-010-News-Page_record.mp4
+
 # Project-009 : News Page (RN-01)
 
 ## Description
